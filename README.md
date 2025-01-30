@@ -1,3 +1,7 @@
+# Instructions:
+## Run the program itself
+    - mvn clean compile exec:java -Dexec.mainClass="org.project.Main"
+
 # Requirements of the Program
 ## Functionalities
 ### Read data from data.txt
