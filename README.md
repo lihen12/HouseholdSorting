@@ -1,9 +1,11 @@
 # Instructions:
 ## Run the JAR file
     - Clone repository
-    - java -jar HouseholdSorting.jar data.txt
-
-    
+    - Navigate to the project directory
+        - JAR file is in project directory
+        - data.txt is in project root folder to test w/ JAR
+    - Run in command-line:
+        - java -jar HouseholdSorting.jar data.txt
 
 # Requirements of the Program
 ## Functionalities
