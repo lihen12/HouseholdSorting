@@ -1,6 +1,9 @@
 # Instructions:
-## Run the program itself
-    - mvn clean compile exec:java -Dexec.mainClass="org.project.Main"
+## Run the JAR file
+    - Clone repository
+    - java -jar HouseholdSorting.jar data.txt
+
+    
 
 # Requirements of the Program
 ## Functionalities
