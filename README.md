@@ -24,7 +24,7 @@
     - Need to normalize the addresses to group them correctly
 ###  Filter data to exclude anyone under 19
     - Adults 19 and older should be in input (inclusive)
-    - Not expected of us, but if people have same last names, then order by first name
+    - If people have same last names, then order by first name
 ### Display the output in correct format
     - [Household Group ID] [Total number of household occupants]  
             [First Name] [Last Name] [Address] [Age] 
