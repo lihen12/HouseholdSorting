@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String filePath = "src/main/java/resources/data.txt";
+        String filePath = "src/main/java/resources/data2.txt";
 
         List<Person> people = DataProcessor.readData(filePath);
         Map<String, List<Person>> households = DataProcessor.groupByHousehold(people);
