@@ -89,7 +89,7 @@ public class DataProcessor {
         // 2. filter out anyone under 19
         // 3. add them to over19Occupants list
         // 4. sort the household by last name
-        // 5. generate output
+        // 5. generate the output
         for (Map.Entry<String, List<Person>> entry : households.entrySet()) {
             String address = entry.getKey();
 

@@ -1,3 +1,5 @@
+- Assumptions:
+    - Assuming that blvd, apt, st, ave are always going to be the standard format for addresses
 - Challenges:
     - Splitting lines in DataProcessor.java:
         - Line 30:

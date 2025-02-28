@@ -7,7 +7,7 @@ public class Person {
     private String address;
     private int age;
 
-    // Initialize person
+    // Initialize constructor for a person
     public Person(String firstName, String lastName, String address, int age) {
         this.firstName = firstName;
         this.lastName = lastName;

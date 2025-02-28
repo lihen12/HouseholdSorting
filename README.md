@@ -47,3 +47,4 @@
     - Don't think we need to store internal state of our data processor, so we'll just be making
     method calls on the class itself
         - create static methods
+    - More in documentation.txt

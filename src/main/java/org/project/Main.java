@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
+// Program to test our project
 public class Main {
     public static void main(String[] args) throws IOException {
         String filePath = "src/main/java/resources/data2.txt";
